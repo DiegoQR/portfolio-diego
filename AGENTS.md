@@ -36,7 +36,7 @@ This project is a web portfolio designed to showcase the work experience and ach
 ### Do Not
 - Install dependencies without notifying.
 - Upload `.env*` files to the repository.
-- Read or use any information contained in the `.env*` file.
+- Read or use any information of every file that is contained in the .gitignore file.
 - Use `any` type in TypeScript without explicit justification.
 
 
