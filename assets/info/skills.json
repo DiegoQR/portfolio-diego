@@ -1,0 +1,8 @@
+{
+  "techStack": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Node.js", "Python", ".NET", "SQL", "MongoDB", "Laravel", "Angular", "Git", "Agentic AI"],
+  "softSkills": ["Adaptability", "Self-learning", "Integrity", "Organization", "Teamwork", "Cooperation", "Time management"],
+  "languages": [
+    { "name": "Spanish", "proficiency": "Native" },
+    { "name": "English", "proficiency": "Fluent" }
+  ]
+}

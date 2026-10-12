@@ -1,0 +1,15 @@
+{
+  "name": "Diego Quiñones",
+  "fullName": "Diego Alejandro Quiñones Rudon",
+  "profession": "Software Developer",
+  "location": "Cochabamba, Bolivia",
+  "email": "diegoqr2000@gmail.com",
+  "contactMessage": "Hello Diego, we are interested in your curriculum and we would like to know if we can schedule a meeting with you.",
+  "introduction": "I’m a Software Systems Engineer with experience in full-stack development and quality assurance. I enjoy applying technology to real-world challenges and learning along the way.",
+  "about": "I graduated with honors in Software Systems Engineering. My background spans web development, mobile app development, algorithm analysis, and quality assurance. I work with agile methodologies and explore how AI tools and agents can support software development.",
+  "hobbies": "Outside of work, I enjoy learning about technology and anything new and exciting, playing video games, and drawing.",
+  "socialLinks": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/diego-alejandro-quinones-rudon/" },
+    { "label": "GitHub", "url": "https://github.com/DiegoQR" }
+  ]
+}

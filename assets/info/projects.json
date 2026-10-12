@@ -1,0 +1,11 @@
+[
+  {
+    "id": "project-placeholder",
+    "isPlaceholder": true,
+    "title": "Project title",
+    "description": "Replace this placeholder with a description of your project.",
+    "technologies": ["Technology"],
+    "liveUrl": null,
+    "repositoryUrl": null
+  }
+]

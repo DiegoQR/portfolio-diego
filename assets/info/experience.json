@@ -1,0 +1,39 @@
+[
+  {
+    "id": "coderoad-qa",
+    "company": "CodeRoad",
+    "position": "QA Manual Engineer",
+    "startDate": "2026-03",
+    "endDate": null,
+    "achievements": [
+      "Executed QA testing for Autotrader (Cox Automotive), optimizing ad placements and achieving top client satisfaction.",
+      "Configured and verified complex dealership pricing and fee structures, ensuring live data accuracy and compliance.",
+      "Completed AI training at CodeRoad, using AI tools and agents to optimize manual QA workflows."
+    ]
+  },
+  {
+    "id": "one-click-fullstack",
+    "company": "One Click",
+    "position": "Full Stack Developer",
+    "startDate": "2024-06",
+    "endDate": "2026-03",
+    "achievements": [
+      "Started in customer service and product sales before being assigned to develop a management system to improve product delivery.",
+      "Designed a product sales management web application from scratch to optimize ordering, tracking, and delivery processes.",
+      "Developed the first RESTful API prototype with Express, documenting good coding practices with the goal of reducing delivery mistakes by 80%."
+    ]
+  },
+  {
+    "id": "truextend-internship",
+    "company": "TRUEXTEND",
+    "position": "Intern",
+    "startDate": "2023-08",
+    "endDate": "2023-11",
+    "achievements": [
+      "Designed and developed a website service to manage and visualize the company’s employment resources.",
+      "Modeled a database and built a RESTful API using good coding practices and agile methodology, improving the development cycle by two weeks.",
+      "Collaborated with developers, designers, and QA to deliver valuable product improvements.",
+      "Troubleshot and resolved bugs on the company’s main site, improving efficiency and user experience."
+    ]
+  }
+]

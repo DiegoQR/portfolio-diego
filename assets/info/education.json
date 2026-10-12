@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ucb-software-systems",
+    "organization": "Universidad Católica Boliviana “San Pablo”",
+    "title": "Professional Degree in Software Systems Engineering",
+    "startDate": "2019-02",
+    "endDate": "2023-11",
+    "achievements": ["Graduated with honors with a GPA of 4.37 on a 5.0 scale."],
+    "documents": []
+  },
+  {
+    "id": "univalle-full-stack",
+    "organization": "Universidad Privada del Valle (UNIVALLE)",
+    "title": "Certificate Program in Full Stack Web Development",
+    "startDate": "2019-02",
+    "endDate": "2023-11",
+    "achievements": ["Built, optimized, and deployed scalable web applications across frontend and backend environments following industry best practices."],
+    "documents": []
+  }
+]
